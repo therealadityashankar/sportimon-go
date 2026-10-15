@@ -6,10 +6,9 @@
   "tos_uri": "https://sportimon.river.berlin",
   "policy_uri": "https://sportimon.river.berlin",
   "redirect_uris": [
-    "https://sportimon.river.berlin/",
-    "http://127.0.0.1:3000/"
+    "https://sportimon.river.berlin/"
   ],
-  "scope": "atproto",
+  "scope": "atproto transition:generic",
   "grant_types": ["authorization_code", "refresh_token"],
   "response_types": ["code"],
   "token_endpoint_auth_method": "none",
