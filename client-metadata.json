@@ -7,8 +7,7 @@
   "policy_uri": "https://sportimon.river.berlin",
   "redirect_uris": [
     "https://sportimon.river.berlin/",
-    "http://127.0.0.1:3000/",
-    "http://localhost:3000/"
+    "http://127.0.0.1:3000/"
   ],
   "scope": "atproto",
   "grant_types": ["authorization_code", "refresh_token"],
