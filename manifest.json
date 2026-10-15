@@ -1,7 +1,7 @@
 {
-  "name": "Simple Counter",
-  "short_name": "Counter",
-  "description": "A clean, lightweight, installable counter PWA.",
+  "name": "Sportimon",
+  "short_name": "Sportimon",
+  "description": "Explore monuments and complete outdoor quests across Norway.",
   "start_url": "/",
   "id": "/",
   "scope": "/",
