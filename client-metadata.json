@@ -1,0 +1,19 @@
+{
+  "client_id": "https://sportimon.river.berlin/client-metadata.json",
+  "client_name": "Sportimon",
+  "client_uri": "https://sportimon.river.berlin",
+  "logo_uri": "https://sportimon.river.berlin/icons/icon-512x512.png",
+  "tos_uri": "https://sportimon.river.berlin",
+  "policy_uri": "https://sportimon.river.berlin",
+  "redirect_uris": [
+    "https://sportimon.river.berlin/",
+    "http://127.0.0.1:3000/",
+    "http://localhost:3000/"
+  ],
+  "scope": "atproto",
+  "grant_types": ["authorization_code", "refresh_token"],
+  "response_types": ["code"],
+  "token_endpoint_auth_method": "none",
+  "application_type": "web",
+  "dpop_bound_access_tokens": true
+}
